@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player 1 1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Level
+  - Player
+  - BusterBullet
+  - EnemyBullet
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1595836869
+    locked: 0
+  - name: trees
+    uniqueID: 3894435309
+    locked: 0
+  - name: water
+    uniqueID: 2477309379
+    locked: 0
+  - name: platform
+    uniqueID: 2073797643
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
